@@ -1,0 +1,115 @@
+body{
+    background-image: url(triple_\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+}
+
+.image-container{
+    display: flex;
+    background-color: #fff;
+    width: 480px;
+    height: 400px;
+}
+
+.image{
+    width: 300px;
+}
+
+.icons{
+    width: 200px;
+}
+.icons .login{
+    padding: 20px;
+    height: 94px;
+    text-align: center;
+}
+.icons .login:hover{
+    background-color: green;
+    color: #fff;
+}
+.icons .Register{
+    padding:20px;
+    height: 92px;
+    text-align: center;
+}
+.icons .Register:hover{
+    background-color: green;
+    color: #fff;
+}
+.icons .password{
+    padding:20px;
+    height: 94px;
+    text-align: center;
+}
+.icons .password:hover{
+    background-color: green;
+    color: #fff;
+}
+.form-container{
+    margin-left:30px;
+    width: 580px;
+    background-color: white;
+}
+
+h3{
+    text-align:center;
+    font-size: 25px;
+}
+
+form input{
+    margin-bottom: 20px;
+    width: 90%;
+    height: 45px;
+    margin: 20px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+form button{
+    margin: 20px;
+    width: 92%;
+    height: 45px;
+    text-align: center;
+    color: #fff;
+    margin-left: 20px;
+    background-color:rgb(98, 231, 98);
+    border: none;
+}
+
+form a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    text-align: center;
+}
+
+.page-footer{
+    color: #fff;
+    margin-top: 150PX;
+}
+
+  
+
+ 
+
+
+  
+  
+
+ 
+
